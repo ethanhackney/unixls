@@ -27,6 +27,10 @@ rev     - reverse lines characterwise
 tail    - output the last part of files
 head    - output the first part of files
 
+terminal
+--------
+tmux    - terminal multiplexer
+
 text editors
 ------------
 vim     - a programmer's text editor
