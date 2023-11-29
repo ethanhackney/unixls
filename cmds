@@ -1,0 +1,178 @@
+some commands appear in multiple categories, such as awk
+which is both a programming language and a filter
+---------------------------------------------------------
+
+filters
+-------
+awk     - pattern scanning and text processing language
+sed     - stream editor for filtering and transforming text
+grep    - print lines that match patterns
+find    - search for files in a directory hierarchy
+sort    - sort lines of text files
+wc      - print newline, word, and bytes counts for each file
+less    - file perusal filter
+xargs   - build and execute command lines from standard input
+nl      - number lines of files
+printf  - format and print data
+echo    - display a line of text
+uniq    - report or omit repeated lines
+tr      - translate or delete characters
+paste   - merge lines of files
+tee     - read from standard input and write to standard output and files
+cut     - remove sections from each line of files
+wc      - print newline, word, and bytes counts for each file
+cat     - concatenate files and print on the standard output
+tac     - concatenate and print files in reverse
+rev     - reverse lines characterwise
+tail    - output the last part of files
+head    - output the first part of files
+
+text editors
+------------
+vim     - a programmer's text editor
+
+file system
+-----------
+chmod   - change file mode bits
+chgrp   - change group ownership
+chown   - change file owner and group
+cp      - copy files and directories
+mv      - move (rename) files
+ls      - list directory contents
+du      - estimate file space usage
+stat    - display file or file system status
+mkfs    - build a linux filesystem
+pwd     - print name of current/working directory
+rm      - remove files or directories
+mkdir   - make directories
+touch   - change file timestamps
+rmdir   - remove empty directories
+
+help
+----
+man     - an interface to the system reference manuals
+
+processes
+---------
+kill            - send a signal to a process
+ps              - report a snapshot of the current processes
+top             - display processes
+bpftrace        - a high-level tracing language
+time            - run programs and summarize system resource usage
+
+observe
+-------
+free            - display amount of free and used memory
+vmstat          - report virtual memory statistics
+sar             - collect, report, or save system activity information
+ps              - report a snapshot of the current processes
+top             - display processes
+bpftrace        - a high-level tracing language
+strace          - trace system calls and signal
+iostat          - report CPU statistics and I/O statistics for devices and partitions
+uptime          - tell how long the system has been running
+pidstat         - report statistics for Linux tasks
+mpstat          - report processors related statistics
+ss              - another utility to investigate sockets
+
+system
+------
+arch    - print machine hardware name
+uname   - print system information
+
+binaries
+--------
+od              - dump files in octal and other formats
+hexdump         - display file contents in hexadecimal, decimla, octal, or ascii
+objdump         - display information from object files
+nm              - list symbols from object files
+
+files
+-----
+file    - determine file type
+less    - file perusal filter
+tail    - output the last part of files
+head    - output the first part of files
+
+languages
+---------
+awk             - pattern scanning and text processing language
+sed             - stream editor for filtering and transforming text
+make            - utility to maintain groups of programs
+perl            - the perl 5 language interpreter
+tclsh           - simple shell containing Tcl interpreter
+bpftrace        - a high-level tracing language
+
+users
+-----
+w       - show who is logged on and what they are doing
+who     - show who is logged on
+sudo    - execute a command as another user
+su      - run a command with substitute user and group ID
+history - user command history
+passwd  - change user password
+whoami  - print effective userid
+
+finding
+-------
+awk     - pattern scanning and text processing language
+sed     - stream editor for filtering and transforming text
+grep    - print lines that match patterns
+find    - search for files in a directory hierarchy
+which   - locate a command
+whereis - locate the binary, source, and manual page files for a command
+
+comparing
+---------
+comm            - compare two sorted files line by line
+diff            - compare files line by line
+cmp             - compare two files byte by byte
+
+project management
+------------------
+make            - utility to maintain groups of programs
+git             - the stupid content tracker
+patch           - apply a diff file to an original
+
+databases
+---------
+join            - join lines of two files on a common field
+
+networking
+----------
+traceroute      - print the route packets trace to network host
+ping            - send ICMP ECHO_REQUEST to network hots
+tcpdump         - dump traffic on a network
+netstat         - print network connections, routing tables, interface statistics,
+                  masquerade connections, and multicast memberships
+nc              - arbitrary TCP and UDP connections and listens
+curl            - transfer a URL
+wget            - the non-interactive network downloader
+ssh             - remote login client
+sftp            - secure file transfer
+scp             - secure file copy
+ip              - show / manipulate routing, network devices, interfaces and tunnels
+ifconfig        - configure a network interface
+ss              - another utility to investigate sockets
+dig             - DNS lookup utility
+host            - DNS lookup utility
+
+compiling
+---------
+ld              - linker
+as              - assembler
+gcc             - GNU c compiler
+
+archives
+--------
+ar              - create, modify, and extract from archives
+tar             - an archiving utility
+
+compression
+-----------
+gzip    - compress files
+gunzip  - expand files
+
+packages
+--------
+apt     - APT package handling utility
