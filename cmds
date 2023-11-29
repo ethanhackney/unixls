@@ -113,6 +113,9 @@ make            - utility to maintain groups of programs
 perl            - the perl 5 language interpreter
 tclsh           - simple shell containing Tcl interpreter
 bpftrace        - a high-level tracing language
+m4              - macro processor
+bison (yacc)    - GNU Project parser generator
+flex (lex)      - the fast lexicial analyzer generator
 
 users
 -----
