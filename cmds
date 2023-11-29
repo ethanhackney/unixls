@@ -74,6 +74,17 @@ uptime          - tell how long the system has been running
 pidstat         - report statistics for Linux tasks
 mpstat          - report processors related statistics
 ss              - another utility to investigate sockets
+lsof            - list open files
+lsmod           - show the status of modules in the linux kernel
+dmesg           - print or control the kernel ring buffer
+
+kernel
+------
+dmesg           - print or control the kernel ring buffer
+insmod          - simple program to insert a module into the linux kernel
+rmmod           - simple program to remove a module from the linux kernel
+lsmod           - show the status of modules in the linux kernel
+modprobe        - add and remove modules from the linux kernel
 
 system
 ------
