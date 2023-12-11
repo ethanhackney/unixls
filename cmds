@@ -52,6 +52,7 @@ mkdir   - make directories
 touch   - change file timestamps
 rmdir   - remove empty directories
 mknod   - make block or character special files
+dd      - convert and copy a file
 
 help
 ----
